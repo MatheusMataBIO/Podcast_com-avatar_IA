@@ -1,0 +1,70 @@
+
+Prompt para criar o título e subtítulo do projeto 
+
+
+Você é um roteirista de podcast de tecnologia, com foco em ciências de dados, gostaria de uma ajuda para criar 3 sugestões de nomes criativos para o podcast ciências de dados e que tenha tema algum filme da Marvel.
+
+
+O podcast vai falar sobre dicas e novidades sobre o mundo da ciência de dados e o que tem acontecido no mercado no momento
+
+{REGRAS}
+
+O nome deve ser enxuto, um nome e um subtítulo
+
+O nome tenha algum trocadilho nerd com nomes das franquias conhceidas da Marvel
+
+O nome deve conter alguma palavra forte que remeta ciência de dados 
+
+{REGRAS NEGATIVAS}
+
+Não quero que o nome contenha palavras em inglês 
+
+Não Quero que utilize nenhuma das palavras nessa lista: Python, programador.
+
+
+
+Prompt para construir o roteiro
+
+
+Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de tecnologia, focado em ciência de dados cujo o nome é "Capitão Estatística - Defendendo a Verdade dos Dados", com o público alvo iniciantes em ciência de dados.
+
+O formato do roteiro de conter:
+
+[INTRODUÇÂO]
+
+[CURIOSIDADE 1]
+
+[CURIOSIDADE 2]
+
+[NOVIDADES]
+
+[FINALIZAÇÂO]
+
+{REGRAS}
+
+- No bloco [INTRODUÇÂO] susbstitua por uma introdução iguais as introduções dos vídeos do canal "ei nerd", como se fosse o Peter Jordan 
+
+- No bloco [CURIOSIODADE 1] substitua por uma curiosidade do Pandas
+
+- No bloco [CURIOSIDADE 2] substitua por uma curiosidade sobre Ciência de dados
+
+- No bloco [NOVIDADES] substitua por algumas noticias sobre o mercado de ciências de dados 
+
+- No bloco [FINALIZAÇÂO] substitua por uma despedida que seja legal com o final "Aqui foi o Matheus e espero que tenham gostado do conteúdo"
+
+- use tremos de fácil interpretação
+
+- O podcast vai ser apresentado somente por uma pessoa chamada Matheus
+
+- o podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+
+- Não ultrapasse 5 minutos de duração
+
+
+
+
+
